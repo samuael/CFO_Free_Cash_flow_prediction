@@ -5,8 +5,8 @@ This project demonstrates a machine learning approach to predict **Free Cash Flo
 ## Methodology
 - Preprocessing: Normalized features using **MinMaxScaler**, replaced null values with 0, and removed samples with missing target values.
 - Data Split: 90% training, 10% testing.
-- Models Used: **Linear Regression**, **Ridge Regression**, **Polynomial Regression**, and **Random Forest Regressor**.
-- Evaluation Metrics: **Mean Absolute Error (MAE)** and **Root Mean Squared Error (RMSE)**.
+- Models Used: **Neural Network**, **Linear Regression**, **Ridge Regression**, **Polynomial Regression**, and **Random Forest Regressor**.
+- Evaluation Metrics: **Mean Square Error (MSE)**, **Mean Absolute Error (MAE)** and **Root Mean Squared Error (RMSE)**.
 
 ## Challenges and Limitations
 - Limited dataset size (2,400 samples) and insufficient online data.
