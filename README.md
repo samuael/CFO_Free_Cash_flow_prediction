@@ -1,4 +1,4 @@
-# Free Cash Flow Prediction using Regression Models
+# Free Cash Flow Prediction using Neural Network and Basic Regression Models
 
 This project demonstrates a machine learning approach to predict **Free Cash Flow (FCF)** of companies using key financial indicators. The dataset consists of annual financial data for 604 companies, with 8 selected features from the Income Statement, Cash Flow, and Balance Sheet: Capital Expenditure, EBITDA, Total Debt, Total Revenue, Working Capital, Accounts Receivable, Accounts Payable, and Cash & Cash Equivalents.
 
